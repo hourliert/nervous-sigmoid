@@ -1,6 +1,6 @@
 {
   "name": "nervous-sigmoid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sigmoid and Sigmoid prime functions",
   "main": "index.js",
   "directories": {
